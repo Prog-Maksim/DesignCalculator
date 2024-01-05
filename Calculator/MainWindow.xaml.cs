@@ -11,20 +11,17 @@ namespace Calculator
         public MainWindow()
         {
             InitializeComponent();
-            
             Theme(_theme);
         }
         
         private void Border_MouseDows(object sender, MouseButtonEventArgs e)
         {
-            if (e.ChangedButton == MouseButton.Left)
-                DragMove();
+            if (e.ChangedButton == MouseButton.Left) DragMove();
         }
         
         private void Border_MouseRightButtonDown(object sender, MouseButtonEventArgs e)
         {
-            if (e.ClickCount == 2)
-                Close();
+            if (e.ClickCount == 2) Close();
         }
         
         private void Border_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
