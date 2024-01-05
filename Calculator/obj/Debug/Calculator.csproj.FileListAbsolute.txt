@@ -21,3 +21,4 @@ D:\важные файлы\Program C#\GraphicsApplication\Calculator\Calculator\
 D:\важные файлы\Program C#\GraphicsApplication\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
 D:\важные файлы\Program C#\GraphicsApplication\Calculator\Calculator\obj\Debug\Dark.baml
 D:\важные файлы\Program C#\GraphicsApplication\Calculator\Calculator\obj\Debug\Light.baml
+D:\важные файлы\Program C#\GraphicsApplication\Calculator\Calculator\obj\Debug\App.baml
